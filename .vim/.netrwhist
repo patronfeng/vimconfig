@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/patron/project/appfw/src'
+let g:netrw_dirhist_2='/home/patron/project/appfw_rt/.output'
+let g:netrw_dirhist_3='/home/patron/.vim'
+let g:netrw_dirhist_4='/home/patron/Documents/STAT'
+let g:netrw_dirhist_5='/home/dscli/vincent/ezt_tool'
+let g:netrw_dirhist_6='/home/dscli/vincent'
+let g:netrw_dirhist_7='/home/dscli/jsf'
+let g:netrw_dirhist_8='/disk2/Customer_Workloads/Bradesco_R6.2_0427_0504/CEC0/dpa_log_SF82ZV000ESS01_20120428095006_00001379.xml'
+let g:netrw_dirhist_9='/disk2/Customer_Workloads/Bradesco_R6.2_0427_0504/CEC0/dpa_log_SF82ZV000ESS01_20120428091501_00001378.xml'
